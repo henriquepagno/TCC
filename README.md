@@ -5,3 +5,7 @@ Its purpose is to help kids develop computational thinking.
 Along with the project, the undergraduate thesis required a <a href="https://repositorio.ucs.br/xmlui/bitstream/handle/11338/3723/TCC%20Henrique%20Pagno%20de%20Lima.pdf?sequence=1&isAllowed=y">research paper<a> to be written.
 
 To execute it, the project must be opened in Unity Version <a href="https://unity3d.com/unity/qa/patch-releases/5.6.3p1">5.6.3p1<a>.
+
+# Game Screenshots
+![Screenshot](/screenshots/Menu.png?raw=true)
+![Screenshot](/screenshots/Level.png?raw=true)
