@@ -2,6 +2,17 @@
   TCC - As Aventuras de Salazar
 </h1>
 
+<p align="center">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/henriquepagno/TCC?color=7159C1">
+<img alt="Made by Henrique Pagno de Lima" src="https://img.shields.io/badge/made%20by-Henrique Pagno de Lima-%20?color=7159C1">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/henriquepagno/TCC?color=7159C1">
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-pagno-de-lima/?locale=en_US" target="_blank" >
+    <img alt="Linkedin - Henrique Pagno" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  </a>
+</p>
+
 A serious game I developed to my undergraduate thesis of my bachelor degree in computer science by the University of Caxias do Sul.
 It's been developed in Unity, using C#, and it was originally built to be played on Android cellphones.
 Its purpose is to help kids develop computational thinking.
