@@ -15,6 +15,6 @@ To execute it, the project must be opened in Unity Version <a href="https://unit
 <h3>
 
 <p align="center">
-  <img src="/screenshots/Menu.png" alt="Menu Screenshot/>
+  <img src="/screenshots/Menu.png" alt="Menu Screenshot"/>
   <img src="/screenshots/Level.png" alt="Level Screenshot"/>
 </p>
